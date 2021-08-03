@@ -2,7 +2,7 @@ Learning Autentication
 
 
 To debug the application, I used the launch.json file below. Special attention to the "program" parameter.
-
+```
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -18,3 +18,5 @@ To debug the application, I used the launch.json file below. Special attention t
         }
     ]
 }
+
+```
