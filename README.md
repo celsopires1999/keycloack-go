@@ -1,4 +1,4 @@
-Learning Autentication
+Learning Authorization and Authentication with Keycloack and Golang
 
 
 To debug the application, I used the launch.json file below. Special attention to the "program" parameter.
